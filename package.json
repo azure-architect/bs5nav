@@ -1,0 +1,20 @@
+{
+  "name": "bootstap-theme-dev-vscoder",
+  "version": "1.0.0",
+  "description": "this is my default setup for bootstrap while I learn. I mostly picked this up from ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "5": "^0.0.1",
+    "autoprefixer": "^10.4.16",
+    "bootstrap": "^5.3.2",
+    "dart-sass": "^1.25.0",
+    "fontawesome": "^5.6.3",
+    "sass": "^1.69.0"
+  }
+}
